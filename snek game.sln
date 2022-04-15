@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "snek game", "snek game.vcxproj", "{F446B1E4-BF02-4D7A-A636-B9B3AC994C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F446B1E4-BF02-4D7A-A636-B9B3AC994C1D}.Debug|x64.ActiveCfg = Debug|x64
+		{F446B1E4-BF02-4D7A-A636-B9B3AC994C1D}.Debug|x64.Build.0 = Debug|x64
+		{F446B1E4-BF02-4D7A-A636-B9B3AC994C1D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F446B1E4-BF02-4D7A-A636-B9B3AC994C1D}.Debug|x86.Build.0 = Debug|Win32
+		{F446B1E4-BF02-4D7A-A636-B9B3AC994C1D}.Release|x64.ActiveCfg = Release|x64
+		{F446B1E4-BF02-4D7A-A636-B9B3AC994C1D}.Release|x64.Build.0 = Release|x64
+		{F446B1E4-BF02-4D7A-A636-B9B3AC994C1D}.Release|x86.ActiveCfg = Release|Win32
+		{F446B1E4-BF02-4D7A-A636-B9B3AC994C1D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA9A7A75-CAC6-4F5F-97F1-654216D0C39A}
+	EndGlobalSection
+EndGlobal
